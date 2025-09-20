@@ -11,7 +11,6 @@
 #include "logger.h"   /* Custom logging functionality */
 #include "iplot.h"    /* Interface definitions */
 
-/* TO COMPLETE */
 
 void iplot_function(int borne){
     FILE* f = fopen("/tmp/commandes.gp", "w");

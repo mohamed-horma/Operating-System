@@ -22,7 +22,9 @@
 
 #ifndef FOUR_H
 #define FOUR_H
-
-/* TO COMPLETE */
+/* 
+void manage_son1();
+void manage_son2(); */
+void launch_process(const char* path, char* const args[]);
 
 #endif /* FOUR_H */
